@@ -1,5 +1,4 @@
-![NodeLine](https://ik.imagekit.io/artim/Frame_1__3_.png?updatedAt=1684202947925)
-
+![NodeLine](https://github.com/user-attachments/assets/372fc5ef-cbc3-459b-b078-5f4c826a69cf)
 
 # NodeLine
 
