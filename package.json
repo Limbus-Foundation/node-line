@@ -1,5 +1,5 @@
 {
-  "name": "node-line",
+  "name": "@limbus-foundation/node-line",
   "version": "0.0.2",
   "description": "Library for interlocking Elements",
   "main": "index.js",
